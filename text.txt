@@ -1,0 +1,6 @@
+    """
+    if link1=="C:/Users/Lenovo/Desktop/Python/Input Image/image1.jpg":
+        print(link1)
+        link2="C:\\Users\\Lenovo\\Desktop\\Python\\Output Image\\image1.jpg"
+    print(link2)
+    """
